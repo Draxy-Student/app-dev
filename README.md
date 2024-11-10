@@ -1,4 +1,5 @@
 # Title of the Movie: Abraham Lincoln - The Vampire Hunter
+![Abaraham Lincoln: The Vampire Hunter](https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg)
 ##Overview
 *Abraham Lincoln: Vampire Hunter (2012) is a dark fantasy action-horror film directed by Timur Bekmambetov and produced by Tim Burton, based on Seth Grahame-Smith's novel. The film reimagines Abraham Lincoln as more than the 16th President of the United States—he’s also a secret vampire hunter. This unique storyline combines historical drama with supernatural horror, showing Lincoln’s fight against vampires who threaten America’s future.*
 
@@ -20,6 +21,6 @@
 ## Why I Like it
 I like this movie because it shows the dedication of young who grow up and fight not only for his own freedom but the freedom of all mankind. I also love the fight scenes where he need to kill the leader of the vampire clan. Despite of suffering from the death of his son, he continue to fight for the freedom of mankind and nearly killed himself fighting for it. I will recommend this movie to those who loved to watch a historical and scifi movies.
 
-![Abaraham Lincoln: The Vampire Hunter](https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg)
+
 
 
