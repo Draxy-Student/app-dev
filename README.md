@@ -1,11 +1,10 @@
 # Title of the Movie: Abraham Lincoln - The Vampire Hunter
-  ![Abaraham Lincoln: The Vampire Hunter](https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg)
+![Abaraham Lincoln: The Vampire Hunter](https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg)
 
-
-##Overview
+## Overview
 *Abraham Lincoln: Vampire Hunter (2012) is a dark fantasy action-horror film directed by Timur Bekmambetov and produced by Tim Burton, based on Seth Grahame-Smith's novel. The film reimagines Abraham Lincoln as more than the 16th President of the United States—he’s also a secret vampire hunter. This unique storyline combines historical drama with supernatural horror, showing Lincoln’s fight against vampires who threaten America’s future.*
 
-##Ratings and Review
+## Ratings and Review
 - IMDb: 5.9/10
 - Rotten Tomatoes: 34% (Critics Score), 47% (Audience Score)
 - Metacritic: 42/100 (Critic Score), 5.8/10 (User Score)
